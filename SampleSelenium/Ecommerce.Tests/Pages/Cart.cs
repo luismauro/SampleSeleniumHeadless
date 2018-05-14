@@ -21,20 +21,20 @@ namespace Ecommerce.Tests.Pages
             _configuration = configuration;
             _browser = browser;
 
-            string caminhoDriver = null;
+            string pathDriver = null;
             if (browser == Browser.Firefox)
             {
-                caminhoDriver =
+                pathDriver =
                     _configuration.GetSection("Selenium:PathDriverFirefox").Value;
             }
             else if (browser == Browser.Chrome)
             {
-                caminhoDriver =
+                pathDriver =
                     _configuration.GetSection("Selenium:PathDriverChrome").Value;
             }
 
             _driver = WebDriverFactory.CreateWebDriver(
-                browser, caminhoDriver, true);
+                browser, pathDriver, true);
 
             _wait = new WebDriverWait(
                 _driver, TimeSpan.FromSeconds(10));

@@ -12,6 +12,7 @@ namespace Ecommerce.Tests.Pages
         private Browser _browser;
         private IWebDriver _driver;
         WebDriverWait _wait;
+        string pathUrlEcommerce = "";
 
         public Login(
             IConfiguration configuration, Browser browser)
@@ -19,29 +20,30 @@ namespace Ecommerce.Tests.Pages
             _configuration = configuration;
             _browser = browser;
 
-            string caminhoDriver = null;
+            string pathDriver = null;
             if (browser == Browser.Firefox)
             {
-                caminhoDriver =
+                pathDriver =
                     _configuration.GetSection("Selenium:PathDriverFirefox").Value;
             }
             else if (browser == Browser.Chrome)
             {
-                caminhoDriver =
+                pathDriver =
                     _configuration.GetSection("Selenium:PathDriverChrome").Value;
             }
 
             _driver = WebDriverFactory.CreateWebDriver(
-                browser, caminhoDriver, true);
+                browser, pathDriver, true);
 
             _wait = new WebDriverWait(
                 _driver, TimeSpan.FromSeconds(10));
         }
         public void LoadPageLogin()
         {
+            pathUrlEcommerce = _configuration.GetSection("Selenium:UrlEcommerce").Value;
             _driver.LoadPage(
                 TimeSpan.FromSeconds(5),
-                _configuration.GetSection("Selenium:UrlEcommerce").Value+"/login");
+                pathUrlEcommerce + "/login");
         }
 
         public void SetTextLogin(string mail, string password)
@@ -79,7 +81,7 @@ namespace Ecommerce.Tests.Pages
             _driver.SetText(
                 By.CssSelector("input[jsname='YPqjbf']"),
                 mail);
-            
+
             _driver.SendKeys(
                 By.Id("identifierNext"));
 

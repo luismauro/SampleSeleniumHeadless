@@ -5885,11 +5885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Estudos\\Core\\Selenium-DotNetCore2-Headless-master\\SampleSelenium\\Ecommerce.Tests\\Ecommerce.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Luis Mauro\\Desktop\\SampleSeleniumHeadless\\SampleSelenium\\Ecommerce.Tests\\Ecommerce.Tests.csproj",
       "projectName": "Ecommerce.Tests",
-      "projectPath": "D:\\Estudos\\Core\\Selenium-DotNetCore2-Headless-master\\SampleSelenium\\Ecommerce.Tests\\Ecommerce.Tests.csproj",
+      "projectPath": "C:\\Users\\Luis Mauro\\Desktop\\SampleSeleniumHeadless\\SampleSelenium\\Ecommerce.Tests\\Ecommerce.Tests.csproj",
       "packagesPath": "C:\\Users\\Luis Mauro\\.nuget\\packages\\",
-      "outputPath": "D:\\Estudos\\Core\\Selenium-DotNetCore2-Headless-master\\SampleSelenium\\Ecommerce.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Luis Mauro\\Desktop\\SampleSeleniumHeadless\\SampleSelenium\\Ecommerce.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5908,8 +5908,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Estudos\\Core\\Selenium-DotNetCore2-Headless-master\\SampleSelenium\\Selenium.Utils\\Selenium.Utils.csproj": {
-              "projectPath": "D:\\Estudos\\Core\\Selenium-DotNetCore2-Headless-master\\SampleSelenium\\Selenium.Utils\\Selenium.Utils.csproj"
+            "C:\\Users\\Luis Mauro\\Desktop\\SampleSeleniumHeadless\\SampleSelenium\\Selenium.Utils\\Selenium.Utils.csproj": {
+              "projectPath": "C:\\Users\\Luis Mauro\\Desktop\\SampleSeleniumHeadless\\SampleSelenium\\Selenium.Utils\\Selenium.Utils.csproj"
             }
           }
         }
