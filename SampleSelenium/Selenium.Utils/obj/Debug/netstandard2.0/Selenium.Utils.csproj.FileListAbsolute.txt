@@ -1,0 +1,16 @@
+D:\Estudos\Core\Selenium-DotNetCore2-Headless-master\ExemploSelenium\Selenium.Utils\bin\Debug\netstandard2.0\Selenium.Utils.deps.json
+D:\Estudos\Core\Selenium-DotNetCore2-Headless-master\ExemploSelenium\Selenium.Utils\bin\Debug\netstandard2.0\Selenium.Utils.dll
+D:\Estudos\Core\Selenium-DotNetCore2-Headless-master\ExemploSelenium\Selenium.Utils\bin\Debug\netstandard2.0\Selenium.Utils.pdb
+D:\Estudos\Core\Selenium-DotNetCore2-Headless-master\ExemploSelenium\Selenium.Utils\obj\Debug\netstandard2.0\Selenium.Utils.csproj.CoreCompileInputs.cache
+D:\Estudos\Core\Selenium-DotNetCore2-Headless-master\ExemploSelenium\Selenium.Utils\obj\Debug\netstandard2.0\Selenium.Utils.AssemblyInfoInputs.cache
+D:\Estudos\Core\Selenium-DotNetCore2-Headless-master\ExemploSelenium\Selenium.Utils\obj\Debug\netstandard2.0\Selenium.Utils.AssemblyInfo.cs
+D:\Estudos\Core\Selenium-DotNetCore2-Headless-master\ExemploSelenium\Selenium.Utils\obj\Debug\netstandard2.0\Selenium.Utils.dll
+D:\Estudos\Core\Selenium-DotNetCore2-Headless-master\ExemploSelenium\Selenium.Utils\obj\Debug\netstandard2.0\Selenium.Utils.pdb
+D:\Estudos\Core\Selenium-DotNetCore2-Headless-master\SampleSelenium\Selenium.Utils\bin\Debug\netstandard2.0\Selenium.Utils.deps.json
+D:\Estudos\Core\Selenium-DotNetCore2-Headless-master\SampleSelenium\Selenium.Utils\bin\Debug\netstandard2.0\Selenium.Utils.dll
+D:\Estudos\Core\Selenium-DotNetCore2-Headless-master\SampleSelenium\Selenium.Utils\bin\Debug\netstandard2.0\Selenium.Utils.pdb
+D:\Estudos\Core\Selenium-DotNetCore2-Headless-master\SampleSelenium\Selenium.Utils\obj\Debug\netstandard2.0\Selenium.Utils.csproj.CoreCompileInputs.cache
+D:\Estudos\Core\Selenium-DotNetCore2-Headless-master\SampleSelenium\Selenium.Utils\obj\Debug\netstandard2.0\Selenium.Utils.AssemblyInfoInputs.cache
+D:\Estudos\Core\Selenium-DotNetCore2-Headless-master\SampleSelenium\Selenium.Utils\obj\Debug\netstandard2.0\Selenium.Utils.AssemblyInfo.cs
+D:\Estudos\Core\Selenium-DotNetCore2-Headless-master\SampleSelenium\Selenium.Utils\obj\Debug\netstandard2.0\Selenium.Utils.dll
+D:\Estudos\Core\Selenium-DotNetCore2-Headless-master\SampleSelenium\Selenium.Utils\obj\Debug\netstandard2.0\Selenium.Utils.pdb
